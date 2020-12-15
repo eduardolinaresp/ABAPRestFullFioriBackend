@@ -35,9 +35,12 @@ ABAPRestFullFioriBackend
 ### 3.2.07 En Eclipse damos aceptar y desde el browse selecionamos el package del punto "3.2.4" es decir ZTRAVEL_APP_EL1
 ### 3.2.08 En Eclipse, Nos indica la OT y damos finish.
 ### 3.2.10 En Eclipse, en la perspectiva ABAPGit, Nos posicionamos sobre el package y le damos pull con botón derecho.
-### 3.2.11 Informacion de AbapGit En Eclipse.
+### 3.2.11 En Eclipse, en el arbol doble click en el service creado y le damos publicar 
+
+### 3.2.12 Informacion de AbapGit En Eclipse.
     
     https://developers.sap.com/tutorials/abap-environment-abapgit.html
+
 
 
 # 4 Tutoriales generales ABAP on cloud 
